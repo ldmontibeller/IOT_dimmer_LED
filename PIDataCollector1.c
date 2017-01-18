@@ -14,7 +14,7 @@ char * thingName = "PIDataCollector1";
 
 /* Server Details */
 #define TW_HOST "dev-hamk.elisaiot.com" // Set this to your ThingWorx server name
-#define TW_APP_KEY "NAAAAAT" // Change this to a appKey from your server
+#define TW_APP_KEY "use-the-appKey-generated-by-the-platform" // Change this to a appKey from your server
 
 /* A simple structure to store current property values. */
 struct  {
